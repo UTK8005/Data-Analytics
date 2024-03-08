@@ -23,6 +23,6 @@ Additional Files Attached are as follows:
 airlines.csv -> deals with airlines IATA code
 airports.csv -> deals with airports IATA code
 cancellation_codes -> self explanatory
-flights.csv -> actual dataset that contains all the details of flights 
+flights.csv -> actual dataset that contains all the details of flights which can be extracted through this (@https://drive.google.com/file/d/1YSom-BcUnfOok5cwu8YBBdGVr7H1TjjE/view?usp=drive_link)
 Project 3.docx -> Insights gained 
 project 3.ipynb -> Code
